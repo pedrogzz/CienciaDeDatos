@@ -1,1 +1,3 @@
 # CienciaDeDatos
+
+practica 0 
